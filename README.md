@@ -10,7 +10,7 @@ excel
 1. download data set from kaggle
 2. clean it in excel
 3. created pivot tables
-4. dashboard
+4. builded dashboard in powerbi
    
 ##key questions
 1. which model sold the most?
